@@ -7,3 +7,7 @@ Kafka Communication using Apache Kafka Clients Library. [here](/kafka-plain-old-
 Kafka Communication using Spring Kafka. [here](/spring-kafka-communication-service).
 
 Kafka Communication using Spring Cloud Streams. [here](/spring-cloud-stream-kafka-communication).
+
+
+Philou voir cet article : https://refactorfirst.com/spring-cloud-stream-with-kafka-communication
+
